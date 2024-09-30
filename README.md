@@ -7,6 +7,7 @@ The development environment can be setup as follows:
 conda create --name audio python==3.7
 conda activate audio
 git clone git@github.com:Patricknmaina/Deep-Audio-Classifier.git
+cd Deep-Audio-Classifier/
 pip install -r requirements.txt
 ```
 To access the jupyter environment, run the following command:
