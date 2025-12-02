@@ -63,6 +63,9 @@ The prediction process is shown below:
 
 ![model prediction](images/model_prediction.png)
 
+**Disclaimer**
+This project was purely for experimental purposes. I will be experimenting with more updated wav files (possibly a different audio corpus), as well as more model architectures. So stay tuned!
+
 ## References
 Kapre -> for computation of audio transforms from time to frequency domain
 - [Github link](https://github.com/keunwoochoi/kapre)
