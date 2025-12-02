@@ -63,7 +63,7 @@ The prediction process is shown below:
 
 ![model prediction](images/model_prediction.png)
 
-**Disclaimer**
+## **Disclaimer**
 This project was purely for experimental purposes. I will be experimenting with more updated wav files (possibly a different audio corpus), as well as more model architectures. So stay tuned!
 
 ## References
