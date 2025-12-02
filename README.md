@@ -20,7 +20,7 @@ audio_clean.py is used to downsample the audio and remove dead cells in the audi
 
 The file is run using the following command:
 
-`python audio_clean.py`
+`python scripts/audio_clean.py`
 
 In order to downsample the audio wavfiles by delta time, uncomment the `split_wavs` function. This will create a clean directory with the downsampled mono audio wavfiles.
 
@@ -33,7 +33,7 @@ The delta time and sample rate should be constant from audio_clean.py
 
 Then run the code as follows:
 
-`python train.py`
+`python scripts/train.py`
 
 The training process looks as follows:
 
@@ -57,7 +57,7 @@ In predict.py, change the model_type to either conv1d, conv2d or lstm in the mai
 
 Run the following code:
 
-`python predict.py`
+`python scripts/predict.py`
 
 The prediction process is shown below:
 
